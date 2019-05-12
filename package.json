@@ -1,0 +1,7 @@
+{
+  "name": "aws-cloud-front-deploy",
+  "version": "1.0.0",
+  "scripts": {
+    "deploy-production": "NODE_ENV=production node deploy-production.js"
+  }
+}
